@@ -1,0 +1,19 @@
+#active{
+    background-color: teal;
+    color: orange;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+h1{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+img{
+    width: 100%;
+}
